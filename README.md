@@ -47,5 +47,6 @@ Please also cite the link for Hamlyn Centre Laparoscopic/Endoscopic video datase
 If you have problems when downloading our datasets, please contact us. 
 
 Email address: 
-lxi@bournemouth.ac.uk
+lxi@bournemouth.ac.uk;
+xilong9410@163.com;
 wtang@bournemouth.ac.uk
