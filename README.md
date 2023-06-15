@@ -1,7 +1,5 @@
 # Endoscopic-3D-Point-Clouds-Datasets
 
-Link for downloading all datasets: https://github.com/LONG-XI/Endoscopic-3D-Point-Clouds-Datasets.
-
 We create 5 classes of endoscopic 3D point clouds datasets from the public available Hamlyn Centre Laparoscopic/Endoscopic video datasets http://hamlyn.doc.ic.ac.uk/vision/. 
 
 Our datasets (48.61 GB) include scenes of abdomen wall, uterine horn, nephrectomy scene 1, nephrectomy scene 2 and the liver and we make the datasets publicly available to researchers. Each dense 3D point cloud extracted contains approximately 100,000 points on average. 
