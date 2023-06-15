@@ -1,5 +1,6 @@
 # Endoscopic-3D-Point-Clouds-Datasets
 
+Link for downloading all datasets: https://github.com/LONG-XI/Endoscopic-3D-Point-Clouds-Datasets.
 
 We create 5 classes of endoscopic 3D point clouds datasets from the public available Hamlyn Centre Laparoscopic/Endoscopic video datasets http://hamlyn.doc.ic.ac.uk/vision/. 
 
