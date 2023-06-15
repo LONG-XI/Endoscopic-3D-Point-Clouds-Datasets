@@ -35,7 +35,7 @@ Download Endoscopic 3D point clouds Dataset5 (around 2.15 GB per zip file, 10 fi
     
 }
 
-Hamlyn Centre Laparoscopic/Endoscopic video datasets: http://hamlyn.doc.ic.ac.uk/vision/. 
+Please also cite the link for Hamlyn Centre Laparoscopic/Endoscopic video datasets: http://hamlyn.doc.ic.ac.uk/vision/. 
 
 or 
 
@@ -43,7 +43,7 @@ or
 
 [2] Giannarou S, Stoyanov D, Noonan D, et al. Hamlyn centre laparoscopic/endoscopic video datasets[J]. 2012. 
 
-Hamlyn Centre Laparoscopic/Endoscopic video datasets: http://hamlyn.doc.ic.ac.uk/vision/. 
+Please also cite the link for Hamlyn Centre Laparoscopic/Endoscopic video datasets: http://hamlyn.doc.ic.ac.uk/vision/. 
 
 If you have problems when downloading our datasets, please contact us. 
 
